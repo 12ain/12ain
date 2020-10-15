@@ -2,7 +2,7 @@
 
 [![FearwareX's github stats](https://github-readme-stats.vercel.app/api?username=FearwareX&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![FearwareX's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fearwarex)](https://github.com/anuraghazra/github-readme-stats)
+[![FearwareX's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FearwareX)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FearwareX)](https://github.com/anuraghazra/github-readme-stats)
 
