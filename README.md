@@ -1,10 +1,14 @@
-### Hi there 👋
+Hi there 👋
 
-[![FearwareX's github stats](https://github-readme-stats.vercel.app/api?username=FearwareX&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+I'm Rain, I am one of the graduating class of 2021 from Qingdao Institute of Technology.
 
-[![FearwareX's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FearwareX)](https://github.com/anuraghazra/github-readme-stats)
+My major is software engineering, and the main direction is front-end development,I am looking for an internship or full-time job, please contact me if you have suitable employment opportunities.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FearwareX)](https://github.com/anuraghazra/github-readme-stats)
+
+[![FearwareX's github stats](https://github-readme-stats.vercel.app/api?username=FearwareX&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![FearwareX's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FearwareX)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FearwareX/FearwareX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
