@@ -5,8 +5,6 @@ Hi there 👋
 
 
 
-<div style="display:flex; flex: 1 1 50%">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=FearwareX&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,FFCCCC,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FearwareX&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/>
-</div>
+
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=FearwareX&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,FFCCCC,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FearwareX&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FearwareX&bg_color=0,D783FF,CCFFFF,FFFFCC,FF6666"/>
