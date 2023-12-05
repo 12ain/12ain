@@ -9,14 +9,6 @@
 
 <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=12ain&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,FFCCCC,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12ain&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/> -->
 
-<!-- waka-box start -->
-YAML       7 hrs 16 mins  ███████████████░░░░░░  71.8%
-Docker     1 hr 5 mins    ██▎░░░░░░░░░░░░░░░░░░  10.8%
-Other      26 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-Go         20 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-INI        17 mins        ▌░░░░░░░░░░░░░░░░░░░░   3.0%
-<!-- waka-box end -->
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/12ain/12ain/output/github-contribution-grid-snake.svg"/>
 </div>
