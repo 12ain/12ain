@@ -3,7 +3,7 @@
 ## 🌐 Socials
 
 - 🛰 Wechat: JavaScript-NO1
-- ✉️ Email: <a href="mailto://me@xiayutian.net">me@xiayutian.net</a>
+- ✉️ Email: <a href="mailto://smalltime153@gmail.com">smalltime153@gmail.com</a>
 - 😺 Blog: <a href="https://blog.abplan.top" target="_blank">Rain的心情杂货铺</a>
 
 ## 📊 GitHub Status
